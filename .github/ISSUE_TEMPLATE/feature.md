@@ -1,8 +1,8 @@
 ---
-name: title - bug
-about: summary
-title: "[BUG]"
-labels: ''
+name: feature
+about: summary(한글로)
+title: "[FEATURE]"
+labels: feature
 assignees: ''
 
 ---

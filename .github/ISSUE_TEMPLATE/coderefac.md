@@ -1,8 +1,8 @@
 ---
-name: title - feature
-about: summary(한글로)
-title: ''
-labels: feature
+name: codeRefac
+about: 코드리팩토링
+title: "[codeRefac] "
+labels: ''
 assignees: ''
 
 ---
