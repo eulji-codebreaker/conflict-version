@@ -3,7 +3,7 @@ name: title - bug
 about: summary
 title: "[BUG]"
 labels: ''
-assignees: '01218279393'
+assignees: ''
 
 ---
 
